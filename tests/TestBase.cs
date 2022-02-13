@@ -8,9 +8,9 @@ using NUnit.Framework;
 namespace addressbook_tests_autoit
 {
     
-    public class TestBase1
+    public class TestBase
     {
-        ApplicationManager app;
+        public ApplicationManager app;
 
         [OneTimeSetUp]
 
