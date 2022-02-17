@@ -7,7 +7,7 @@ using NUnit.Framework;
 
 namespace addressbook_tests_autoit
 {
-    
+    [TestFixture]
     public class TestBase
     {
         public ApplicationManager app;
